@@ -163,3 +163,5 @@ https://hissing-kitchen-harsh.functions.on-fleek.app  functions
 ✅ Success! Your Next.js app has been successfully deployed to Fleek
 > Visit your app at https://hissing-kitchen-harsh.functions.on-fleek.app
 ```
+
+The deployed front-end: [https://hissing-kitchen-harsh.functions.on-fleek.app](https://hissing-kitchen-harsh.functions.on-fleek.app)

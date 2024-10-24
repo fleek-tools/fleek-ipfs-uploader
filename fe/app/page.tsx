@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { useState } from "react";
 
-const BE_SERVER_URL = "<ngrok_url_to_the_server>";
+const BE_SERVER_URL = "https://1015-104-28-222-74.ngrok-free.app";
 
 /* eslint-disable @typescript-eslint/no-explicit-any */
 export default function HomePage() {
