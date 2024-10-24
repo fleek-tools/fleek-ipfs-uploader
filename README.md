@@ -63,6 +63,7 @@ PROJECT_ID= <your_project_id>
 ## Run the FE on local
 
 ```bash
+npm install
 npm run build
 npm run dev
 ```
@@ -96,7 +97,7 @@ Fleek SDK Installation
 cd be
 
 # Install dependencies
-npm i
+npm install
 
 # Create `.env` file
 cp .env.example .env

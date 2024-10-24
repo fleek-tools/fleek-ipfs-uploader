@@ -49,7 +49,7 @@ export default function HomePage() {
   const handleFetchImage = async () => {
     try {
       if (!cid) return;
-      const ipfsRes = await fetch(`https://gateway.pinata.cloud/ipfs/${cid}`);
+      const ipfsRes = await fetch(`https://${cid}.ipfs.flk-ipfs.xyz/`);
       if (ipfsRes.ok) {
         const blob = await ipfsRes.blob();
         const imageUrl = URL.createObjectURL(blob);
